@@ -24,6 +24,11 @@
                     <P>Apply the Multiplicative Cipher to your Plain Text or Cipher Text!   <a href='multiplicative.jsp'><button>Click Here</button></a></P>
                     
             </div>
+            <div>
+                    <h2>Affine Cipher</h2>
+                    <P>Apply the Affine Cipher to your Plain Text or Cipher Text!   <a href='affine.jsp'><button>Click Here</button></a></P>
+                    
+            </div>
             <jsp:include page="footer.html"/>
     </center>
     </body>
